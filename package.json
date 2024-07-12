@@ -30,7 +30,7 @@
     "openzeppelin-solidity": "^3.2.0",
     "truffle": "^5.1.44",
     "truffle-hdwallet-provider": "1.0.5",
-    "truffle-plugin-verify": "^0.5.15"
+    "truffle-plugin-verify": "^0.6.7"
   },
   "devDependencies": {
     "bignumber.js": "^9.0.0",
