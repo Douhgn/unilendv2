@@ -19,7 +19,7 @@
   "author": "Unilend Team <dev@unilend.finance>",
   "license": "MIT",
   "dependencies": {
-    "@truffle/hdwallet-provider": "^1.0.44",
+    "@truffle/hdwallet-provider": "^2.1.15",
     "bip39": "^3.0.2",
     "eth-decoder": "0.0.1-beta.2",
     "eth-gas-reporter": "^0.2.17",
